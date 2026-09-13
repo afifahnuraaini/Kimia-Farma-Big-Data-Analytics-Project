@@ -18,6 +18,9 @@ As a Big Data Analytics Intern at Kimia Farma, the scope of this project include
 │   ├── kf_inventory.zip
 │   ├── kf_kantor_cabang.zip
 │   └── kf_product.csv
+├── Project Documentation/
+│   ├── Final Task_Kimia Farma_Big Data Analytics_Afifah Nuraini Majid_.pptx
+│   └── Performance Analytics Dashboard Kimia_Farma.pdf
 ├── Query/
 │   └── Google Big Query Final.sql
 └── README.md
